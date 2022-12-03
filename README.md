@@ -1,4 +1,4 @@
-# JavaScript-Advanced
+# JavaScript-Advanced 📑 Themes
 
 ![image](https://user-images.githubusercontent.com/106147027/196214072-be91cad4-96fb-403d-9a2e-77a4e26ee05e.png)
 
